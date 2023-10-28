@@ -1,0 +1,4 @@
+**/node_modules/
+env
+.bash_history
+.git
